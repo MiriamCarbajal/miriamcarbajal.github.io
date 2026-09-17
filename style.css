@@ -1,0 +1,20 @@
+body {
+    background-color:#97c3d8;
+}
+
+h1,h2 {
+    color: #82CAFF;
+    font-family: century gothic, sans-serif;
+}
+
+p{
+    color:black;
+    font-family: Glacier Sans, sans-serif;
+}
+
+p, ul, div {
+    margin-bottom: 80px;
+    padding: 20px;
+}
+
+
